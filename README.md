@@ -9,6 +9,10 @@ Buisness Intelligence |  Python
 ## My Projects
 
 - Analytics Capstone :
+    - Comprehensive Analysis report : [Comprehensive Analytics Report.docx](https://github.com/user-attachments/files/23533082/Comprehensive.Analytics.Report.docx)
+    - Capstone Presentation : https://www.canva.com/design/DAG4cKeynlQ/fGRTBXtIVhDvzsvm9vYITg/edit?utm_content=DAG4cKeynlQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+    - 
+
 - Tableau Dashboar for a Hospital ER Trafic  : https://public.tableau.com/views/Week11WorkshopUncoveringInsightsWithTableau_17601182366670/HospitalERDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
